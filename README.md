@@ -3,4 +3,4 @@
 <h2 align="center">Eae men <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, Eu sou o Sh3ll</h2>
 
 - 💚 I’m a Brazillian coder (i think it’s obvious)
-- 🌱 I’m currently learning about css...
+- 🌱 I’m currently learning about css... (and english of course)
