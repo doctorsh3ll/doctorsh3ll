@@ -2,7 +2,7 @@
 
 ## 🎫 About me
 
-- Oi, Olá, Eae, I'm Sh3ll, A Brazilian ⚽ who loves Web Design and Art overall...
+- Oi, Olá, Eae, I'm Sh3ll, A Brazilian who loves Web Design and Art overall...
 
 - Currently i'm studying JS 📖 (and english of course).
 
